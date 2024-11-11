@@ -24,7 +24,7 @@ const Transactions = () => {
                                 <p className="text">{transaction.name} <span>{transaction.date}</span></p>
                             </div>
                             <div className="grid-item-r">
-                                <span className="text-scarlet">${transaction.amount}</span>
+                                <span className="text-scarlet">₹{transaction.amount}</span>
                             </div>
                         </div>
                     ))

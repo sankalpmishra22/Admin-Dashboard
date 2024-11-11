@@ -25,13 +25,13 @@ const Savings = () => {
                         <p className="text text-silver-v1">{saving.title}</p>
                     </div>
                     <div className="grid-item-top-r">
-                      <span className="text-silver-v1"> ${saving.saving_amount} </span>
+                      <span className="text-silver-v1"> ₹{saving.saving_amount} </span>
                     </div>
                   </div>
                   <div className="grid-item-bottom">
                     <div className="grid-item-badges">
                         <span className="grid-item-badge">Date taken {saving.date_taken} </span>
-                        <span className="grid-item-badge">Amount left ${saving.amount_left} </span>
+                        <span className="grid-item-badge">Amount left ₹{saving.amount_left} </span>
                     </div>
                     <div className="grid-item-progress">
                         <div className="grid-item-fill"></div>

@@ -19,21 +19,21 @@ export const transactions = [
         id: 11, 
         name: "Sarah Parker",
         image: personsImgs.person_four,
-        date: "23/12/04",
+        date: "23/10/24",
         amount: 22000
     },
     {
         id: 12, 
         name: "Krisitine Carter",
         image: personsImgs.person_three,
-        date: "23/07/21",
+        date: "12/08/24",
         amount: 20000
     },
     {
         id: 13, 
         name: "Irene Doe",
         image: personsImgs.person_two,
-        date: "23/08/25",
+        date: "15/07/24",
         amount: 30000
     }
 ];
@@ -108,19 +108,19 @@ export const subscriptions = [
     {
         id: 24,
         title: "LinkedIn",
-        due_date: "23/12/04",
+        due_date: "23/12/24",
         amount: 20000
     },
     {
         id: 25,
         title: "Netflix",
-        due_date: "23/12/10",
+        due_date: "14/12/24",
         amount: 5000
     },
     {
         id: 26,
         title: "DSTV",
-        due_date: "23/12/22",
+        due_date: "31/12/24",
         amount: 2000
     }
 ];

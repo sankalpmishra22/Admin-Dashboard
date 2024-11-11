@@ -12,7 +12,7 @@ const Cards = () => {
         </div>
         <div className="grid-c1-content">
             <p>Balance</p>
-            <div className="lg-value">$22,000</div>
+            <div className="lg-value">₹22,000</div>
             <div className="card-wrapper">
                 <span className="card-pin-hidden">**** **** ****</span>
                 <span>1234</span>
@@ -20,7 +20,7 @@ const Cards = () => {
             <div className="card-logo-wrapper">
                 <div>
                     <p className="text text-silver-v1 expiry-text">Expires</p>
-                    <p className="text text-sm text-white">12/22</p>
+                    <p className="text text-sm text-white">12/27</p>
                 </div>
                 <div className="card-logo">
                     <div className="logo-shape1"></div>

@@ -21,9 +21,9 @@ const Sidebar = () => {
     <div className={`sidebar ${sidebarClass}`}>
       <div className="user-info">
         <div className="info-img img-fit-cover">
-          <img src={personsImgs.person_two} alt="profile image" />
+          <img src={personsImgs.person_five} alt="profile image" />
         </div>
-        <span className="info-name">alice-doe</span>
+        <span className="info-name">Sankalp Mishra</span>
       </div>
       <nav className="navigation">
         <ul className="nav-list">
