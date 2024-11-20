@@ -2,7 +2,7 @@ import "./Sidebar.css";
 import { personsImgs } from "../../utils/images";
 import { navigationLinks } from "../../data/data";
 import { useContext, useEffect, useState } from "react";
-import { SidebarContext } from "../../Context/sidebarContext";
+import { SidebarContext } from "../../context/sidebarContext";
 
 const Sidebar = () => {
   const [activeLinkIdx] = useState(1);

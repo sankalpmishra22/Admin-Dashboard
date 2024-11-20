@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import "./ContentTop.css";
-import { SidebarContext } from "../../Context/sidebarContext";
+import { SidebarContext } from "../../context/sidebarContext";
 import { iconsImgs } from "../../utils/images";
 
 const ContentTop = () => {
